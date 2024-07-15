@@ -1,0 +1,41 @@
+
+@media (max-width: 1200px) {
+  .composition_top {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .content {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .form_top {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .form__title {
+    font-size: 46px;
+  }
+  .form__timer {
+    font-size: 60px;
+  }
+  .promo_secondary {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .promo__title {
+    font-size: 46px;
+  }
+  .reviews_top {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .reviews__slider-block {
+    margin: auto;
+  }
+  .reviews__slider {
+    margin: auto;
+  }
+  .reviews__image {
+    height: 400px;
+  }
+}
